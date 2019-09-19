@@ -34,3 +34,4 @@ See [AI Textbook](Textbook/AI-Textbook.pdf)
 
 - [Assignments 0](Assignments/00/)
 - [Assignments 1](Assignments/01/)
+- [Assignments 2](Assignments/02/)
