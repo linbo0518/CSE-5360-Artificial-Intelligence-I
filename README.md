@@ -5,6 +5,7 @@
   - [Textbook](#textbook)
   - [Slides](#slides)
   - [Assignments](#assignments)
+  - [Exams](#exams)
 
 ## Course Info
 
@@ -35,3 +36,7 @@ See [AI Textbook](Textbook/AI-Textbook.pdf)
 - [Assignments 0](Assignments/00/)
 - [Assignments 1](Assignments/01/)
 - [Assignments 2](Assignments/02/)
+
+## Exams
+
+- [Exam 1](Exams/01)
