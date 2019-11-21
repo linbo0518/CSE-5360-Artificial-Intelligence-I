@@ -39,6 +39,12 @@ See [AI Textbook](Textbook/AI-Textbook.pdf)
 - [Lecture 14](Slides/Lecture-14.pdf)
 - [Lecture 15](Slides/Lecture-15.pdf)
 - [Lecture 16](Slides/Lecture-16.pdf)
+- [Lecture 17](Slides/Lecture-17.pdf)
+- [Lecture 18](Slides/Lecture-18.pdf)
+- [Lecture 19](Slides/Lecture-19.pdf)
+- [Lecture 20](Slides/Lecture-20.pdf)
+- [Lecture 21](Slides/Lecture-21.pdf)
+- [Lecture 22](Slides/Lecture-22.pdf)
 
 ## Assignments
 
