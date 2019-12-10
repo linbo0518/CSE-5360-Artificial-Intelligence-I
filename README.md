@@ -21,6 +21,9 @@ See [AI Textbook](Textbook/AI-Textbook.pdf)
 
 ## Slides
 
+<details>
+<summary>Click to view</summary>
+
 - [Lecture 01-1](Slides/Lecture-01-1.pdf)
 - [Lecture 01-2](Slides/Lecture-01-2.pdf)
 - [Lecture 01-3](Slides/Lecture-01-3.pdf)
@@ -45,16 +48,30 @@ See [AI Textbook](Textbook/AI-Textbook.pdf)
 - [Lecture 20](Slides/Lecture-20.pdf)
 - [Lecture 21](Slides/Lecture-21.pdf)
 - [Lecture 22](Slides/Lecture-22.pdf)
+- [Lecture 23](Slides/Lecture-23.pdf)
+- [Lecture 24](Slides/Lecture-24.pdf)
+- [Lecture 25](Slides/Lecture-25.pdf)
+
+</details>
 
 ## Assignments
 
-- [Assignments 0](Assignments/00/)
-- [Assignments 1](Assignments/01/)
-- [Assignments 2](Assignments/02/)
-- [Assignments 3](Assignments/03/)
-- [Assignments 4](Assignments/04/)
+<details>
+<summary>Click to view</summary>
+
+- [Assignment 0](Assignments/00/)
+- [Assignment 1](Assignments/01/)
+- [Assignment 2](Assignments/02/)
+- [Assignment 3](Assignments/03/)
+- [Assignment 4](Assignments/04/)
+- [Assignment 5](Assignments/05/)
+- [Assignment 6](Assignments/06/)
+- [Opt Assignment](Assignments/opt&#32;assignment2/)
+
+</details>
 
 ## Exams
 
 - [Exam 1](Exams/01)
 - [Exam 2](Exams/02)
+- [Exam 3](Exams/03)
